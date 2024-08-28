@@ -1,0 +1,12 @@
+{
+  "name": "com.mycompany.mypackage",
+  "version": "1.0.0",
+  "displayName": "My Simple Package",
+  "description": "A simple package with a rotating component.",
+  "unity": "2019.1",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "url": "https://www.yourwebsite.com"
+  }
+}
